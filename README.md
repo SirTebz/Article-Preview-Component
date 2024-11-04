@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/SirTebz/Article-Preview-Component)
-- Live Site URL: [Live Page](https://)
+- Live Site URL: [Live Page](https://sirtebz.github.io/Article-Preview-Component/)
 
 ### Built with
 
